@@ -1,0 +1,25 @@
+{
+  "name": "Archive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "183.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/coinbase-chrome-extenstion.git"
+  },
+  "keywords": [],
+  "author": "sam bacha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambacha/coinbase-chrome-extenstion/issues"
+  },
+  "homepage": "https://github.com/sambacha/coinbase-chrome-extenstion#readme",
+  "devDependencies": {
+    "webpack": "^5.47.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
